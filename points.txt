@@ -1,1 +1,0 @@
-javax.swing.JLabel[,0,190,180x20,alignmentX=0.0,alignmentY=0.0,border=,flags=8388608,maximumSize=,minimumSize=,preferredSize=,defaultIcon=,disabledIcon=,horizontalAlignment=LEADING,horizontalTextPosition=TRAILING,iconTextGap=4,labelFor=,text=Points: 0,verticalAlignment=CENTER,verticalTextPosition=CENTER]
